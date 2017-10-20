@@ -1,11 +1,11 @@
 /* Magic Mirror
- * Default Modules List
+ * Custom Modules List
  *
- * By Michael Teeuw http://michaelteeuw.nl
+ * By Nakima Solutions https://www.nakima.es
  * MIT Licensed.
  */
 
-// Modules listed below can be loaded without the 'default/' prefix. Omitting the default folder name.
+// Modules listed below can be loaded without the 'custom/' prefix. Omitting the custom folder name.
 
 var customModules = [
 	"nakima",

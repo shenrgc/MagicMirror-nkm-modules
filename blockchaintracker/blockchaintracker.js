@@ -1,7 +1,7 @@
 /* global Module */
 
 /* Magic Mirror
- * Module: Nakima
+ * Module: Blockchain Tracker
  *
  * By Nakima Solutions https://www.nakima.es
  * MIT Licensed.
